@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B91C1C,100:1A1A2E&height=220&section=header&text=TryHackMe%20-%20Relevant&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Windows%20%7C%20IIS%20%2B%20SMB%20%7C%20SeImpersonatePrivilege%20%E2%86%92%20SYSTEM&descAlignY=58&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B91C1C,100:1A1A2E&height=220&section=header&text=TryHackMe%20-%20Relevant&fontSize=50&fontColor=ffffff" width="100%"/>
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=B91C1C&center=true&vCenter=true&width=700&lines=Enumerate+%E2%86%92+Exploit+%E2%86%92+Escalate+%E2%86%92+Root;Anonymous+SMB+Share+Hidden+Inside+IIS+Webroot;SeImpersonatePrivilege+Abused+with+PrintSpoofer;Full+SYSTEM+Compromise+in+One+Attack+Chain" alt="Typing SVG" />
-</p>
+</p> 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-TryHackMe-red?style=for-the-badge&logo=tryhackme&logoColor=white">
